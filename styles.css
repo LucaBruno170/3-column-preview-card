@@ -34,6 +34,10 @@ body {
     max-height: 100%;
 }
 
+p, button {
+    font-family: 'Lexend Deca', sans-serif;
+}
+
 .three {
     background-color: hsl(179, 100%, 13%);
     width: 95vw;
@@ -44,11 +48,18 @@ body {
 
 p {
     color: hsla(0, 0%, 100%, 0.75);
-    font-size: 2rem;
+    font-size: 1.5rem;
+    padding: 0 20px;
 }
 
 .icons {
     display: block;
+}
+
+h1 {
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 2rem;
+    color: hsl(0, 0%, 95%);
 }
 
 
