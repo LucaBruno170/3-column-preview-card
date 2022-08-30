@@ -50,7 +50,8 @@ p {
     color: hsla(0, 0%, 100%, 0.75);
     font-size: 1.5rem;
     padding: 0 40px;
-    margin-top: -70px;
+    position: relative;
+    bottom: 70px;
 }
 
 .icons {
