@@ -70,5 +70,10 @@ h1 {
     padding: 0 40px;
 }
 
-
+button {
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: color: hsl(0, 0%, 95%);
+}
 
