@@ -50,8 +50,7 @@ p {
     color: hsla(0, 0%, 100%, 0.75);
     font-size: 1.5rem;
     padding: 0 40px;
-    position: relative;
-    bottom: 70px;
+    
 }
 
 .icons {
@@ -62,6 +61,7 @@ h1 {
     font-family: 'Big Shoulders Display', cursive;
     font-size: 3rem;
     color: hsl(0, 0%, 95%);
+    margin-bottom: -50px;
 }
 
 .heading {
