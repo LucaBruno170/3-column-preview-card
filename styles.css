@@ -49,7 +49,7 @@ p, button {
 p {
     color: hsla(0, 0%, 100%, 0.75);
     font-size: 1.5rem;
-    padding: 0 20px;
+    padding: 0 40px;
 }
 
 .icons {
@@ -58,8 +58,12 @@ p {
 
 h1 {
     font-family: 'Big Shoulders Display', cursive;
-    font-size: 2rem;
+    font-size: 3rem;
     color: hsl(0, 0%, 95%);
+}
+
+.heading {
+    padding: 0 40px;
 }
 
 
