@@ -72,8 +72,8 @@ h1 {
 
 button {
     margin: 0 auto;
-    padding: 20px;
-    border-radius: 20px;
+    padding: 60px;
+    border-radius: 50%;
     background-color: color: hsl(0, 0%, 95%);
 }
 
