@@ -70,11 +70,5 @@ h1 {
     padding: 0 40px;
 }
 
-button {
-    display: block;
-    margin: 0 auto;
-    padding: 60px;
-    border-radius: 50%;
-    background-color: color: hsl(0, 0%, 95%);
-}
+
 
