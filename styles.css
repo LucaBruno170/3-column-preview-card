@@ -71,8 +71,9 @@ h1 {
 }
 
 button {
-    display: block;
+    
     margin-left: 40px;
+    padding: 40px;
 }
 
 
