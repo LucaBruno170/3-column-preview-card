@@ -70,8 +70,8 @@ h1 {
     padding: 0 40px;
 }
 
-button {
-    
+.button {
+    display: block;
     margin-left: 40px;
     padding: 60px;
 }
