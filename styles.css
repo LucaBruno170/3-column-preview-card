@@ -70,5 +70,9 @@ h1 {
     padding: 0 40px;
 }
 
+button {
+    display: block;
+    margin-left: 40px;
+}
 
 
