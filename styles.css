@@ -74,6 +74,9 @@ h1 {
     display: block;
     margin-left: 40px;
     padding: 30px 60px;
+    border-radius: 50px;
+    border: none;
+    background-color: hsl(0, 0%, 95%);
 }
 
 
