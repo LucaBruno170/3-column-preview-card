@@ -97,6 +97,7 @@ h1 {
     cursor: pointer;
     color: hsl(0, 0%, 95%);
     border: 5px solid hsl(0, 0%, 95%);
+    box-sizing: border-box;
 }
 
 .button1:hover {
