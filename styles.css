@@ -95,7 +95,7 @@ h1 {
 .button:hover {
     cursor: pointer;
     color: hsl(0, 0%, 95%);
-    border: 2px solid hsl(0, 0%, 95%);
+    border: 5px solid hsl(0, 0%, 95%);
 }
 
 .button1:hover {
