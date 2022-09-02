@@ -99,7 +99,7 @@ h1 {
     cursor: pointer;
     color: hsl(0, 0%, 95%);
     outline: 3px solid hsl(0, 0%, 95%);
-    outline-offset: -5px;
+    outline-offset: -3px;
 }
 
 .button1:hover {
