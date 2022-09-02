@@ -83,14 +83,17 @@ h1 {
 
 .button1 {
     color: hsl(31, 77%, 52%);
+    box-sizing: border-box;
 }
 
 .button2 {
     color: hsl(184, 100%, 22%);
+    box-sizing: border-box;
 }
 
 .button3 {
     color: hsl(179, 100%, 13%);
+    box-sizing: border-box;
 }
 
 .button:hover {
@@ -102,12 +105,15 @@ h1 {
 
 .button1:hover {
     background-color: hsl(31, 77%, 52%);
+    box-sizing: border-box;
 }
 
 .button2:hover {
     background-color: hsl(184, 100%, 22%);
+    box-sizing: border-box;
 }
 
 .button3:hover {
     background-color: hsl(179, 100%, 13%);
+    box-sizing: border-box;
 }
