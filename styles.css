@@ -78,8 +78,6 @@ h1 {
     border: none;
     background-color: hsl(0, 0%, 95%);
     font-size: 1.5rem;
-    outline: 3px solid hsl(0, 0%, 95%);
-    outline-offset: -5px;
 }
 
 .button1 {
@@ -100,8 +98,8 @@ h1 {
 .button:hover {
     cursor: pointer;
     color: hsl(0, 0%, 95%);
-    border: 5px solid hsl(0, 0%, 95%);
-   
+    outline: 3px solid hsl(0, 0%, 95%);
+    outline-offset: -5px;
 }
 
 .button1:hover {
