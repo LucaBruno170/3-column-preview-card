@@ -116,7 +116,7 @@ h1 {
    
 }
 
-@media (min-width:376px) {
+@media (min-width:396px) {
     .principal {
         display: flex;
     }
