@@ -9,6 +9,8 @@ body {
 .principal {
     width: 375px;
     margin: 0 auto;
+    border-radius: 10px;
+    overflow: hidden;
 }
 
 .one, .two, .three {
@@ -123,6 +125,8 @@ h1 {
         height: 75vh;
         width: 70vw;
         margin: 60px auto;
+        border-radius: 10px;
+        overflow: hidden;
     }
 
     p, .button {
