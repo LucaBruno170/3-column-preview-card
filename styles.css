@@ -115,3 +115,9 @@ h1 {
     background-color: hsl(179, 100%, 13%);
    
 }
+
+@media (min-width:376px) {
+    .principal {
+        display: flex;
+    }
+}
