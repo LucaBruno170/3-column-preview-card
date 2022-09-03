@@ -119,5 +119,11 @@ h1 {
 @media (min-width:396px) {
     .principal {
         display: flex;
+        align-items: center;
+        height: 75vh;
+        width: 70vw;
+        margin: 60px auto;
     }
+
+
 }
